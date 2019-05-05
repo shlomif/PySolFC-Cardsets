@@ -1,0 +1,169 @@
+This card set was adapted from the game Rangoon by Rudy Muller and
+is used with his permission.  Here is the contents of the original
+RANINFO.TXT file included in the distribution.
+
+------------------------------------------------------------------
+
+ [++] = = = = = = = = = =[ R A N G O O N ]= = = = = = = = = = [++]
+  || = = = = = = = [ Version 1.31  24 May 1999 ] = = = = = = = ||
+  || = = = = = =[ A Game of Solitaire for Windows ]= = = = = = ||
+  || = = = = =[ Copyright (c) 1992,1999 Rudy Muller ]= = = = = ||
+ [++] = = = = = = = = [ All Rights Reserved ] = = = = = = = = [++]
+
+ Rangoon is a game of solitaire with all of the 52 cards faced up.
+ Though all the cards are shown, and in spite of its simple rules
+ it is a challenge to find the strategy to complete a game.
+
+ After shuffling the deck, the cards will be laid down face up in
+ four rows of 13 cards each.  Subsequently the kings are taken up,
+ and put down in front of the rows.
+ The object is to rearrange the cards such that each row contains
+ one complete family (the cards of a suit in the correct ranking:
+ King, Queen, Jack, Ten, ...., Three, Two, Ace).
+ Rearranging is done  by using the four vacant places  which were
+ created by moving the kings to the front. A card can be moved to
+ a gap, provided the card is ranked with the card in front of the
+ gap ( e.g. the 6 of spades can be moved behind the 7 of spades).
+ By moving another gap emerges,  which can be used to move a card
+ to, and so on.  The game is over when all gaps are behind an Ace
+ or behind another gap, so no more card can be moved.
+ This solitaire enjoys some popularity in the Netherlands, and is
+ known under various names and in various flavors. The program of
+ Rangoon supports a number of variants.
+
+ The look-alike games known as "Montana Aces" (where the gaps are
+ created by removing the aces)  and  "Gaps" (often with less than
+ 52 cards) are also supported by the program.
+
+
+ [ domain ]
+
+ I am releasing this as "POSTCARDWARE",  which means you are free
+ to use the program.  And, when YOU think the program is worth it,
+ express your appreciation by sending  a picture postcard  to the
+ address at the bottom of this file.
+ Being a collector of lighthouse postcards, my preference goes to
+ a postcard of a lighthouse. But - of course - I would be pleased
+ just as much with a postcard from your hometown.
+
+ You are allowed to distribute -please do- this package,  as long
+ as you (a) include this documentation file with the package when
+ you distribute it,  (b) do not change  this file  or one of  the
+ other files of the package.
+ You are also allowed  to use the title-screen or screen-shots of
+ the program for the purpose of promoting the program.
+
+ You are not allowed to distribute this program  on disk or other
+ media,  and charge  more than the cost of packaging  the program,
+ unless you  explicitly  explain the customer  is paying for  the
+ packaging,  and not for the packaged software itself.
+
+ Visit  "http://web.inter.nl.net/hcc/Rudy.Muller/rangoon.html" to
+ obtain the latest news about Rangoon.
+
+
+ [ disclaimer ]
+
+ The author  makes  no representations  about  the suitability of
+ this software for  any  purpose.  It is provided "as is" without
+ express or implied warranty.
+
+ You should  also be  aware that there are  bad people out  there
+ who will ignore part (b) above and put a virus into this program
+ -- if you  do not  check  the program  for viruses,  logic bombs,
+ trojan horses,  etc. before you run it,  don't blame me if there
+ is one.  Basically, run this program at your own risk.
+
+
+ [ history ]
+
+ Because it was -and still is- my  favourite game of solitaire, I
+ wrote a program for it way back in 1983 (coded in basic and 8080
+ assembler for the DAI).  In 1984 I ported the program to GWBasic
+ on a XT, but neither the graphics nor  the performance were at a
+ level  sufficient  to release  the program.  The introduction of
+ Visual Basic gave me  the  opportunity to  write a program  with
+ a satisfactory look and performance,  and also get some exercise
+ in what turned out to be a fine development environment.
+ Because Rangoon is developed in Visual Basic the program must be
+ run under MicroSoft Windows,  and does need the run-time package
+ VBRUN200.DLL.
+
+
+ [ installation ]
+
+ Copy  the following files  onto your hard disc in a directory of
+ your choice (e.g. c:\windows\wingames\rangoon):
+     rangoon.exe, rangoon.hlp,
+     ran41x41.bmp, ran41x55.bmp, ran51x69.bmp, ran61x85.bmp
+     raninfo.txt, ranhist.txt, ranprob.txt, upgrade.txt
+     cmdialog.vbx
+
+ To run the program for a first introduction, type:
+     cd <owndir>
+     win rangoon
+
+ To install the game start windows, go to the Program Manager and
+ choose  F[ile] / N[ew..] / Program-item, and fill in the form:
+     Description : rangoon
+     Command Line: rangoon.exe
+     Working Directory: <owndir>
+
+ If you do not want to locate the files rangoon.hlp,  raninfo.txt
+ and/or ranWWxHH.bmp in the directory of rangoon.exe,  then create
+ a private-profile named "rangoon.ini" in  the windows-directory,
+ and append the following lines, e.g.:
+     [RANGOON]
+     About=C:\windows\gameinfo\raninfo.txt
+     CardDeck=C:\windows\bitmaps\ran41x55.bmp
+     Help=C:\windows\help\rangoon.hlp
+
+
+ [ how to play ]
+
+ Start the program and use the help provided (in rangoon.hlp)
+
+
+ [ future plans ]
+
+ The future plans regarding RANGOON are:
+ o   solve the bugs (if any ;-)
+ o   integrated button-panel
+ o   (!) ideas from other players
+
+
+ [ credits ]
+
+ A (considerable) contribution to the program has been made by:
+ o  MicroSoft, USA  (VisualBasic & MS/Windows)
+ o  Marcel Zwienenberg, Apeldoorn, Netherlands  (alpha-test)
+ o  Tilly Jansen, Hengelo, Netherlands  (alpha-test)
+ o  Martin Snow, Colorado  (beta-testing, help-text screening)
+ o  Rob Zahora, Burlington, Massachusetts  (first to register)
+ o  Andy & Sandy Fraser, Nashua, New Hampshire  (beta-testing)
+ o  Bob Pomerleau, Augusta, Maine  (beta-testing)
+ o  Patrick Roosen, Bruxelles, Belgium  (beta-testing)
+ o  Matthias Kring, Kreuztal, Germany  (bug-spotting)
+
+
+ [ kind regards ]
+
+ I sincerely hope that this program will be of some entertainment
+ or use  for you.  When you  find any  problems or  wish to offer
+ any  suggestions,  please  feel free to  mail (electronic or  by
+ paper) to the address below.
+
+ Thank you and enjoy the game, Rudy
+
+ =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =
+ Rudy Muller                     Internet: rudy.muller@net.HCC.nl
+ Havezatelaan 3
+ 7414 GD   Deventer
+ Netherlands                              phone: (+31) 570 670631
+
+------------------------------------------------------------------
+
+This is the Russian version of the card markings.
+
+If you like using his deck, you might drop him a line.  Better yet,
+how about a "lighthouse" post card. :-)

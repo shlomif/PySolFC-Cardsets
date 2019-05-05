@@ -1,0 +1,6 @@
+PySol solitaire cardset;4;.gif;4;42;28
+12390-kmahjongg-small;KMahjongg Small
+24 34 8
+2 2 7 7
+back01.gif
+back01.gif

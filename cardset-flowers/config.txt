@@ -1,0 +1,6 @@
+PySol solitaire cardset;4;.gif;2;48;12
+12343-flowers;Flowers
+60 100 8
+20 20 7 7
+back01.gif
+back01.gif;back02.gif

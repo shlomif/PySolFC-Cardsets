@@ -1,0 +1,6 @@
+PySol solitaire cardset;6;.gif;4;42;28;2000
+1777-xmahjongg-thick;XMahjongg Thick
+72 72 8
+8 8 8 8
+back01.gif
+back01.gif

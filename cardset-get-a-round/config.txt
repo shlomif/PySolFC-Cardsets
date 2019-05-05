@@ -1,0 +1,6 @@
+PySol solitaire cardset;4;.gif;1;52;7,18
+12373-getaround;Get A Round
+80 80 8
+20 20 7 7
+back01.gif
+back01.gif

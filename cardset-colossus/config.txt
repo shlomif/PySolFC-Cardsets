@@ -1,0 +1,6 @@
+PySol solitaire cardset;5;.gif;1;52;0;0
+12381-colossus;Colossus
+27 32 8
+10 10 5 5
+back01.gif
+back01.gif

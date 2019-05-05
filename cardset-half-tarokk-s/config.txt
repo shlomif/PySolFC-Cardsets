@@ -1,0 +1,6 @@
+PySol solitaire cardset;5;.gif;3;78;7,27,1015;0
+12565-half-tarokk-s;Half Tarokk Small
+46 50 8
+16 16 7 7
+back01.gif
+back01.gif

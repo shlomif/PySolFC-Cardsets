@@ -1,0 +1,6 @@
+PySol solitaire cardset;6;.gif;4;42;7,28,1011;0
+12888-gnome-mahjongg-3;Gnome Mahjongg 3
+40 56 8
+5 5 4 4
+back01.gif
+back01.gif

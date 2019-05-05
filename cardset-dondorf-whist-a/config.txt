@@ -1,0 +1,6 @@
+PySol solitaire cardset;5;.gif;1;52;8,1006;1896
+12443-dondorf-whist-a;Dondorf Whist A
+77 120 8
+20 20 7 7
+back01.gif
+back01.gif

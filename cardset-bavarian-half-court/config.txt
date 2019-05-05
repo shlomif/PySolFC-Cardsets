@@ -1,0 +1,6 @@
+PySol solitaire cardset;5;.gif;1;52;7,1001;2001
+12562-bavarian-half-court;Bavarian Half Court
+52 52 8
+14 14 7 7
+back01.gif
+back01.gif

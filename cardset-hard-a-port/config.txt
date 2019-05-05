@@ -1,0 +1,6 @@
+PySol solitaire cardset;5;.gif;1;52;8,1018;1850
+12414-hard-a-port;Hard a'Port
+65 120 8
+20 20 7 7
+back01.gif
+back01.gif

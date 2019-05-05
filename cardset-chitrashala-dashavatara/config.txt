@@ -1,0 +1,6 @@
+PySol solitaire cardset;5;.gif;8;120;7,8,18,30,1020;2000
+12576-chitrashala-dashavatara;Chitrashala Dashavatara
+80 80 8
+20 20 7 7
+back01.gif
+back01.gif

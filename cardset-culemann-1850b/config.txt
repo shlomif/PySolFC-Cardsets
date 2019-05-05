@@ -1,0 +1,6 @@
+PySol solitaire cardset;5;.gif;1;52;8,1006;1850
+12407-culemann-1850b;Culemann 1850b
+64 100 8
+20 20 7 7
+back01.gif
+back01.gif

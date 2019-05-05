@@ -1,0 +1,6 @@
+PySol solitaire cardset;5;.gif;2;48;7,12,1016;2000
+12393-genjuro;Genjuro
+58 89 8
+20 20 7 7
+back01.gif
+back01.gif

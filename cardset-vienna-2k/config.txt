@@ -1,0 +1,6 @@
+PySol solitaire cardset;4;.gif;3;78;8,27,1001
+12391-vienna-2k;Vienna 2K
+62 108 8
+20 20 7 7
+back01.gif
+back01.gif

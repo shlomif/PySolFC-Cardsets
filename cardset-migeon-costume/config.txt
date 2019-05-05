@@ -1,0 +1,6 @@
+PySol solitaire cardset;5;.gif;1;52;8,1004;1860
+12424-migeoncostume;Migeon Costume
+84 128 8
+20 20 7 7
+back01.gif
+back01.gif

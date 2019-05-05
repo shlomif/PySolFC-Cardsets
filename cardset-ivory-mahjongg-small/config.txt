@@ -1,0 +1,6 @@
+PySol solitaire cardset;4;.gif;4;42;28
+12396-ivory-mahjongg-small;Ivory Mahjongg Small
+45 60 8
+3 3 4 4
+back01.gif
+back01.gif

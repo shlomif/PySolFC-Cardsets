@@ -1,0 +1,6 @@
+PySol solitaire cardset;4;.gif;1;52;7
+123-victoria;Victoria
+76 120 8
+30 20 7 7
+back01.gif
+back01.gif

@@ -1,0 +1,6 @@
+PySol solitaire cardset;4;.gif;1;52;0
+1000_naylor;Naylor
+50 50 8
+14 14 5 5
+back001.gif
+back001.gif;back101.gif;back102.gif;back111.gif;back191.gif;back192.gif

@@ -1,0 +1,6 @@
+PySol solitaire cardset;5;.gif;1;52;8,1018;1850
+12386-maritimes;Maritimes
+68 104 8
+20 20 7 7
+back01.gif
+back01.gif

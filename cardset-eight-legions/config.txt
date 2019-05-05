@@ -1,0 +1,6 @@
+PySol solitaire cardset;5;.gif;6;96;21,30,1020;2000
+12568-eight-legions;Eight Legions
+50 50 8
+16 16 7 7
+back01.gif
+back01.gif

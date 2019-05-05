@@ -1,0 +1,6 @@
+PySol solitaire cardset;5;.gif;1;52;7,1006;2000
+12513-bavarian-court;The Bavarian Court
+53 84 8
+18 18 7 7
+back01.gif
+back01.gif

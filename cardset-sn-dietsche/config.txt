@@ -1,0 +1,6 @@
+PySol solitaire cardset;5;.gif;1;52;8,1002;1909
+12527-sn-dietsche;SN Dietsche
+86 132 8
+20 20 7 7
+back01.gif
+back01.gif;back02.gif

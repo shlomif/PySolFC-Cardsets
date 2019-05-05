@@ -1,0 +1,6 @@
+PySol solitaire cardset;4;.gif;1;52;17
+12354-spaced;Spaced
+80 120 8
+20 20 7 7
+back01.gif
+back01.gif

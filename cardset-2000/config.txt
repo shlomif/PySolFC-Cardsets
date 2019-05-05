@@ -1,0 +1,6 @@
+PySol solitaire cardset;4;.gif;1;52;7
+12358-2000;2000
+47 50 8
+13 13 7 7
+back01.gif
+back01.gif;back02.gif;back03.gif;back04.gif;back05.gif;back06.gif;back07.gif;back08.gif;back09.gif;back10.gif

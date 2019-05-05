@@ -1,0 +1,19 @@
+This PySol cardset was adapted from TkSol 1.0.
+http://www.cs.umd.edu/users/bao/tksol.html
+
+Copyright (C) 1992 Joseph L. Traub <jtraub@zso.dec.com>
+Copyright (C) 1994 Bao Trinh <bao@cs.umd.edu>
+Copyright (C) 1998 Markus F.X.J. Oberhumer <markus.oberhumer@jk.uni-linz.ac.at>
+
+/*****************************************************************************\
+ *  Card Bitmaps copyright (c) Joseph L. Traub 1992                          *
+ *                                                                           *
+ *  These cards are provided free of charge to any and all who wish to use   *
+ *  in any of their works.  They can be freely copied and redistributed in   *
+ *  any piece of software, either commercial or public, however the cards    *
+ *  themselves MUST remain in the public domain and this notice must         *
+ *  accompany these bitmaps.  If you make any changes to the bitmaps please  *
+ *  let me know so that there might remain a very good set of public domain  *
+ *  bitmaps for a deck of cards.  Enjoy.                                     *
+ *                    Joseph L. Traub (jtraub@zso.dec.com)                   *
+\*****************************************************************************/

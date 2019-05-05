@@ -1,0 +1,6 @@
+PySol solitaire cardset;5;.gif;5;68;8,29,1003;1880
+12441-1880-delarue;1880 De La Rue
+75 112 8
+20 20 7 7
+back01.gif
+back01.gif
