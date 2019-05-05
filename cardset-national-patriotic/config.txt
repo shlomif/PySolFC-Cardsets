@@ -1,4 +1,4 @@
-PySol solitaire cardset;5;.gif;1;52;8,19,1003;1897
+PySolFC solitaire cardset;5;.gif;1;52;8,19,1003;1897
 12516-national-patriotic;Royal National Patriotic
 77 120 8
 20 20 7 7

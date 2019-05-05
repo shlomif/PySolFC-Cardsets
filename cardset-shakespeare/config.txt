@@ -1,4 +1,4 @@
-PySol solitaire cardset;5;.gif;1;52;7,8,1003;1895
+PySolFC solitaire cardset;5;.gif;1;52;7,8,1003;1895
 12514-shakespeare;Shakespeare
 81 126 8
 20 20 7 7

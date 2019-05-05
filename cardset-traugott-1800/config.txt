@@ -1,4 +1,4 @@
-PySol solitaire cardset;5;.gif;1;52;8,1006;1800
+PySolFC solitaire cardset;5;.gif;1;52;8,1006;1800
 12402-traugott-1800;Traugott 1800
 72 112 8
 20 20 7 7

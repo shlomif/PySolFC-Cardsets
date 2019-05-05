@@ -1,4 +1,4 @@
-PySol solitaire cardset;5;.gif;1;52;7,1006;1999
+PySolFC solitaire cardset;5;.gif;1;52;7,1006;1999
 12395-xskat-french;XSkat French
 60 94 8
 16 20 7 7

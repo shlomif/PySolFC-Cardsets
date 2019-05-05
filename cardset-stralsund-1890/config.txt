@@ -1,4 +1,4 @@
-PySol solitaire cardset;5;.gif;1;52;7,8,1006;1890
+PySolFC solitaire cardset;5;.gif;1;52;7,8,1006;1890
 12518-stralsund-1890;Stralsund 1890
 78 120 8
 20 20 7 7

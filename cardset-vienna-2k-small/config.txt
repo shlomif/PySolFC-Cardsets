@@ -1,4 +1,4 @@
-PySol solitaire cardset;4;.gif;3;78;8,27,1001
+PySolFC solitaire cardset;4;.gif;3;78;8,27,1001
 12392-vienna-2k-small;Vienna 2K Small
 47 82 8
 18 20 6 6

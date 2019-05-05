@@ -1,4 +1,4 @@
-PySol solitaire cardset;5;.gif;1;52;8,1006;1770
+PySolFC solitaire cardset;5;.gif;1;52;8,1006;1770
 12401-hegewald-1770;Hegewald 1770
 61 100 8
 16 20 7 7

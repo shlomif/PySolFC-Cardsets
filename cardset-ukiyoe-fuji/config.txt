@@ -1,4 +1,4 @@
-PySol solitaire cardset;5;.gif;3;78;4,27,1016;0
+PySolFC solitaire cardset;5;.gif;3;78;4,27,1016;0
 12422-ukiyoefujitarok;Ukiyo E Fuji Tarok
 75 110 8
 20 20 7 7

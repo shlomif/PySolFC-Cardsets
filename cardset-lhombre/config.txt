@@ -1,4 +1,4 @@
-PySol solitaire cardset;5;.gif;1;52;8,1006;1890
+PySolFC solitaire cardset;5;.gif;1;52;8,1006;1890
 12525-lhombre;Dondorf l'Hombre
 84 128 8
 20 20 7 7

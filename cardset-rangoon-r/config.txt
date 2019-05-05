@@ -1,4 +1,4 @@
-PySol solitaire cardset;4;.gif;1;52;0,1007
+PySolFC solitaire cardset;4;.gif;1;52;0,1007
 12366-rangoon-r;Rangoon Russian
 63 87 8
 14 16 7 7

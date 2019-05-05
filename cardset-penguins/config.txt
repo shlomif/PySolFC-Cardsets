@@ -1,4 +1,4 @@
-PySol solitaire cardset;4;.gif;1;52;17
+PySolFC solitaire cardset;4;.gif;1;52;17
 1000_aceofpenguins;Ace of Penguins
 73 97 8
 14 18 7 7

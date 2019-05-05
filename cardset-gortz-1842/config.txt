@@ -1,4 +1,4 @@
-PySol solitaire cardset;5;.gif;1;52;8,1006;1842
+PySolFC solitaire cardset;5;.gif;1;52;8,1006;1842
 12405-gortz-1842;Gortz 1842
 66 100 8
 16 20 7 7

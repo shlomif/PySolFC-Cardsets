@@ -1,4 +1,4 @@
-PySol solitaire cardset;5;.gif;1;52;8,1004;1890
+PySolFC solitaire cardset;5;.gif;1;52;8,1004;1890
 12446-1890-grimaud;1890 Grimaud
 80 122 8
 20 20 7 7

@@ -1,4 +1,4 @@
-PySol solitaire cardset;5;.gif;1;52;8,7,1006;1890
+PySolFC solitaire cardset;5;.gif;1;52;8,7,1006;1890
 12524-fromman-1890;Fromman 1890
 63 100 8
 18 20 7 7

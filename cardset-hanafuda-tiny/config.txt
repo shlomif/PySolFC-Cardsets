@@ -1,4 +1,4 @@
-PySol solitaire cardset;4;.gif;2;48;12
+PySolFC solitaire cardset;4;.gif;2;48;12
 12350-hanafuda-tiny;Hanafuda Tiny
 43 72 8
 20 20 7 7

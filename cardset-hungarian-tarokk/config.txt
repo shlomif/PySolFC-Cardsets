@@ -1,4 +1,4 @@
-PySol solitaire cardset;5;.gif;3;78;8,27,1015;1850
+PySolFC solitaire cardset;5;.gif;3;78;8,27,1015;1850
 12411-hungariantarokk;Hungarian Tarokk
 66 120 8
 20 20 7 7

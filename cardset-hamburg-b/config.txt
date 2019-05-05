@@ -1,4 +1,4 @@
-PySol solitaire cardset;5;.gif;1;52;8,1006;1850
+PySolFC solitaire cardset;5;.gif;1;52;8,1006;1850
 12367-hamburg-b;Hamburg B
 64 96 8
 14 20 7 7

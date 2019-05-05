@@ -1,4 +1,4 @@
-PySol solitaire cardset;5;.gif;1;52;8,1004;0
+PySolFC solitaire cardset;5;.gif;1;52;8,1004;0
 12447-joan-darc;Joan d'Arc
 94 130 8
 16 20 7 7

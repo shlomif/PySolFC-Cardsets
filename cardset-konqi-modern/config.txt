@@ -1,4 +1,4 @@
-PySol solitaire cardset;4;.gif;1;52;7
+PySolFC solitaire cardset;4;.gif;1;52;7
 123-cardset-konqi-modern;Modern Konqi
 72 96 8
 16 20 7 7

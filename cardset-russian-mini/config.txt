@@ -1,4 +1,4 @@
-PySol solitaire cardset;5;.gif;1;52;7,8,1007;1880
+PySolFC solitaire cardset;5;.gif;1;52;7,8,1007;1880
 12561-russian-mini;Miniature Russian
 62 97 8
 16 16 7 7

@@ -1,4 +1,4 @@
-PySol solitaire cardset;5;.gif;1;52;8,1020;1890
+PySolFC solitaire cardset;5;.gif;1;52;8,1020;1890
 12528-india-pantheon;Pantheon of India
 84 136 8
 20 20 7 7

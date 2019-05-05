@@ -1,4 +1,4 @@
-PySol solitaire cardset;5;.gif;6;96;7,18,30,1018;2000
+PySolFC solitaire cardset;5;.gif;6;96;7,18,30,1018;2000
 12423-mughal-ganjifa;Mughal Ganjifa
 80 80 8
 20 20 7 7

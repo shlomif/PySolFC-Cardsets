@@ -1,4 +1,4 @@
-PySol solitaire cardset;4;.gif;2;48;12
+PySolFC solitaire cardset;4;.gif;2;48;12
 12346-oonsoo-small;Oonsoo Small
 52 76 8
 18 18 7 7

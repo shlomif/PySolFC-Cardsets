@@ -1,4 +1,4 @@
-PySol solitaire cardset;5;.gif;1;52;8,1006;1860
+PySolFC solitaire cardset;5;.gif;1;52;8,1006;1860
 12529-schweitzertrachtenkarte;Schweitzertrachtenkart Wust
 85 134 8
 20 20 7 7

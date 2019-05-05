@@ -1,4 +1,4 @@
-PySol solitaire cardset;2
+PySolFC solitaire cardset;2
 12361-sndietsche-s;SN Dietsche Small
 69 100 8
 14 20 7 7

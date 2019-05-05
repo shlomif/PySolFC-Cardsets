@@ -1,4 +1,4 @@
-PySol solitaire cardset;5;.gif;1;52;8,19,1018;1819
+PySolFC solitaire cardset;5;.gif;1;52;8,19,1018;1819
 12521-seminole-war;The Seminole War
 72 102 8
 18 20 7 7

@@ -1,4 +1,4 @@
-PySol solitaire cardset;5;.gif;1;52;6,8,1006;1870
+PySolFC solitaire cardset;5;.gif;1;52;6,8,1006;1870
 12512-dondorf-kinder;Dondorf Kinder 1870
 68 102 8
 20 20 7 7

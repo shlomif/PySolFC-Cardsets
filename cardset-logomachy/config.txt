@@ -1,4 +1,4 @@
-PySol solitaire cardset;5;.gif;9;26;6,8,31,1018;1889
+PySolFC solitaire cardset;5;.gif;9;26;6,8,31,1018;1889
 12514-logomachy;Logomachy
 88 116 8
 20 20 7 7

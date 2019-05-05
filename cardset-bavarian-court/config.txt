@@ -1,4 +1,4 @@
-PySol solitaire cardset;5;.gif;1;52;7,1006;2000
+PySolFC solitaire cardset;5;.gif;1;52;7,1006;2000
 12513-bavarian-court;The Bavarian Court
 53 84 8
 16 18 7 7

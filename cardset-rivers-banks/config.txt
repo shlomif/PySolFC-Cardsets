@@ -1,4 +1,4 @@
-PySol solitaire cardset;5;.gif;1;52;11,1011;0
+PySolFC solitaire cardset;5;.gif;1;52;11,1011;0
 12440-riversbanks;River's Banks
 63 152 8
 18 20 7 7

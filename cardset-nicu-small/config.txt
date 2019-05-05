@@ -1,4 +1,4 @@
-PySol solitaire cardset;4;.gif;1;52;4
+PySolFC solitaire cardset;4;.gif;1;52;4
 123-nicus-small;Nicu's Small
 50 70 8
 14 16 7 7

@@ -1,4 +1,4 @@
-PySol solitaire cardset;4;.gif;4;42;28
+PySolFC solitaire cardset;4;.gif;4;42;28
 12370-kmahjongg;KMahjongg
 38 54 8
 5 5 7 7

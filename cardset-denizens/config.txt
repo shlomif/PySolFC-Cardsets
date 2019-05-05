@@ -1,4 +1,4 @@
-PySol solitaire cardset;5;.gif;1;52;8,1018;1850
+PySolFC solitaire cardset;5;.gif;1;52;8,1018;1850
 12384-denizens;Denizens
 68 104 8
 16 20 7 7

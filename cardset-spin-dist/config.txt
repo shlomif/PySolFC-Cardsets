@@ -1,4 +1,4 @@
-PySol solitaire cardset;5;.gif;1;52;8,1018;1850
+PySolFC solitaire cardset;5;.gif;1;52;8,1018;1850
 12385-spindist;Spindle & Distaff
 68 104 8
 14 20 7 7

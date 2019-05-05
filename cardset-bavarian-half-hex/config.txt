@@ -1,4 +1,4 @@
-PySol solitaire cardset;5;.gif;5;68;7,29,1001;2001
+PySolFC solitaire cardset;5;.gif;5;68;7,29,1001;2001
 12564-bavarian-half-hex;Bavarian Half Hex
 52 52 8
 14 14 7 7

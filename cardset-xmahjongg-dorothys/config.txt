@@ -1,4 +1,4 @@
-PySol solitaire cardset;6;.gif;4;42;28;2000
+PySolFC solitaire cardset;6;.gif;4;42;28;2000
 123321-mahjongg-dorothys;Dorothys Mahjongg
 64 80 8
 10 10 10 10

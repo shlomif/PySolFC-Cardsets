@@ -1,4 +1,4 @@
-PySol solitaire cardset;5;.gif;1;52;7,8,1007;1880
+PySolFC solitaire cardset;5;.gif;1;52;7,8,1007;1880
 12517-russian-bezique;Russian Bezique
 71 120 8
 20 20 7 7

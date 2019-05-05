@@ -1,4 +1,4 @@
-PySol solitaire cardset;5;.gif;1;52;7,1001;2001
+PySolFC solitaire cardset;5;.gif;1;52;7,1001;2001
 12563-bavarian-half-court-s;Bavarian Half Court Small
 32 32 8
 14 14 7 7

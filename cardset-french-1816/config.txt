@@ -1,4 +1,4 @@
-PySol solitaire cardset;5;.gif;1;52;7,8,1004;1816
+PySolFC solitaire cardset;5;.gif;1;52;7,8,1004;1816
 12523-french-1816;French Court of 1816
 71 112 8
 18 20 7 7

@@ -1,4 +1,4 @@
-PySol solitaire cardset;5;.gif;1;52;8,1004;1790
+PySolFC solitaire cardset;5;.gif;1;52;8,1004;1790
 12417-la-revolution-2;La Revolution 2
 81 122 8
 18 20 7 7

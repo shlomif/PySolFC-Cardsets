@@ -1,4 +1,4 @@
-PySol solitaire cardset;5;.gif;1;52;8,18,1004;1850
+PySolFC solitaire cardset;5;.gif;1;52;8,18,1004;1850
 12369-ovale-salon;Ovale Salon
 68 100 8
 20 20 7 7

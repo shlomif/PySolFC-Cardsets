@@ -1,4 +1,4 @@
-PySol solitaire cardset;5;.gif;1;52;8,1019;1815
+PySolFC solitaire cardset;5;.gif;1;52;8,1019;1815
 12365-1815-court;1815 Court
 68 100 8
 16 20 7 7

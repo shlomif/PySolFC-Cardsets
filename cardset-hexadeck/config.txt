@@ -1,4 +1,4 @@
-PySol solitaire cardset;5;.gif;5;68;29;0
+PySolFC solitaire cardset;5;.gif;5;68;29;0
 12400-hexadeck;Hex A Deck
 50 80 8
 18 18 6 6

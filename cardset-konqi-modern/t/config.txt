@@ -1,0 +1,7 @@
+PySol solitaire cardset;4;.png;1;52;7
+123-cardset-konqi-modern;Modern Konqi
+72 96 8
+16 20 7 7
+back01.png
+back01.png
+

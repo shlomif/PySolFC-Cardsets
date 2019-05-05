@@ -1,4 +1,4 @@
-PySol solitaire cardset;5;.gif;1;52;8,1018;1850
+PySolFC solitaire cardset;5;.gif;1;52;8,1018;1850
 12414-hard-a-port;Hard a'Port
 65 120 8
 16 20 7 7

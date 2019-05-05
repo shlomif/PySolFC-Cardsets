@@ -1,4 +1,4 @@
-PySol solitaire cardset;4;.gif;3;78;4,27
+PySolFC solitaire cardset;4;.gif;3;78;4,27
 123-cardset-fine-art-tarot;Fine Art Tarot
 100 150 8
 16 20 7 7

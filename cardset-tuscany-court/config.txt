@@ -1,4 +1,4 @@
-PySol solitaire cardset;5;.gif;1;52;7,8,1005;2000
+PySolFC solitaire cardset;5;.gif;1;52;7,8,1005;2000
 12515-tuscany-court;The Tuscany Court
 63 100 8
 18 20 7 7

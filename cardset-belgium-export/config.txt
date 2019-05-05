@@ -1,4 +1,4 @@
-PySol solitaire cardset;5;.gif;1;52;7,8,1019;1890
+PySolFC solitaire cardset;5;.gif;1;52;7,8,1019;1890
 12519-belgium-export;Belgium Export 1890
 67 110 8
 20 20 7 7

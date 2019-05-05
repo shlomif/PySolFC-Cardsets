@@ -1,4 +1,4 @@
-PySol solitaire cardset;5;.gif;1;52;8,1004;1650
+PySolFC solitaire cardset;5;.gif;1;52;8,1004;1650
 12420-fantasy;Fantasy
 71 126 8
 18 20 7 7

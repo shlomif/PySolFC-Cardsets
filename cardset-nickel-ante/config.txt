@@ -1,4 +1,4 @@
-PySol solitaire cardset;5;.gif;1;52;8,1018;1850
+PySolFC solitaire cardset;5;.gif;1;52;8,1018;1850
 12388-nickelante;Nickel Ante
 52 100 8
 16 20 7 7

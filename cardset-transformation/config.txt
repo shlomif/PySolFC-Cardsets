@@ -1,4 +1,4 @@
-PySol solitaire cardset;5;.gif;1;52;8;1850
+PySolFC solitaire cardset;5;.gif;1;52;8;1850
 12363-transformation-n;Transformation N
 75 105 8
 18 20 7 7
