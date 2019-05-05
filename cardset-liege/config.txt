@@ -1,6 +1,6 @@
 PySol solitaire cardset;5;.gif;1;52;8,1004;1850
 12419-liege;Liege
 79 122 8
-20 20 7 7
+18 20 7 7
 back01.gif
 back01.gif

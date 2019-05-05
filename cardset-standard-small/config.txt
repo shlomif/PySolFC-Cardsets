@@ -1,6 +1,6 @@
 PySol solitaire cardset;4;.gif;1;52;0
 0020_057085;Standard Small
 57 85 8
-18 18 7 7
+12 18 7 7
 back111.gif
 back041.gif;back101.gif;back102.gif;back111.gif;back121.gif;back122.gif;back131.gif;back132.gif;back191.gif;back192.gif

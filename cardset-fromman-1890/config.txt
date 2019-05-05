@@ -1,6 +1,6 @@
 PySol solitaire cardset;5;.gif;1;52;8,7,1006;1890
 12524-fromman-1890;Fromman 1890
 63 100 8
-20 20 7 7
+18 20 7 7
 back01.gif
 back01.gif

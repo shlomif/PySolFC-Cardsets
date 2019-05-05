@@ -1,6 +1,6 @@
 PySol solitaire cardset;5;.gif;1;52;7,1006;1999
 12397-xskat-german;XSkat German
 60 94 8
-20 20 7 7
+16 20 7 7
 back01.gif
 back01.gif

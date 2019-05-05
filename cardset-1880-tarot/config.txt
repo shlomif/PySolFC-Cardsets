@@ -1,6 +1,6 @@
 PySol solitaire cardset;5;.gif;3;78;8,27,1004;1880
 12374-1880tarot;1880 Tarot
 56 106 8
-20 20 7 7
+16 20 7 7
 back01.gif
 back01.gif

@@ -1,0 +1,6 @@
+PySol solitaire cardset;4;.gif;1;52;7
+123-cardset-warwick;Warwick
+74 120 8
+16 24 7 7
+back01.gif
+back01.gif;back02.gif

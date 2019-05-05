@@ -1,6 +1,6 @@
 PySol solitaire cardset;4;.gif;1;52;0
 1000_tksol;TkSol
 72 99 8
-18 18 7 7
+14 18 7 7
 back101.gif
 back001.gif;back002.gif;back003.gif;back101.gif;back102.gif;back111.gif;back191.gif;back192.gif
