@@ -1,0 +1,6 @@
+PySol solitaire cardset;4;.png;9;100;7,27
+123-next-matrix;Next Matrix
+160 160 8
+20 20 7 7
+back01.png
+back01.png; back02.png
