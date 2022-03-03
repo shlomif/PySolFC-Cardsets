@@ -1,0 +1,6 @@
+PySol solitaire cardset;4;.png;1;52;7
+123-cardset-me-uk;Me.Uk
+240 336 8
+40 50 7 7
+back01.png
+back01.png; back02.png; back03.png; back04.png; back05.png; back06.png; back07.png; back08.png; back09.png; back10.png

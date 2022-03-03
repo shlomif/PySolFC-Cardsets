@@ -1,0 +1,6 @@
+PySol solitaire cardset;5;.png;5;68;29;0
+123-neo-hex;Neo Hex
+250 363 8
+32 45 7 7
+back01.png
+back01.png; back02.png; back03.png; back04.png; back05.png; back06.png; back07.png; back08.png; back09.png; back10.png; back11.png; back12.png; back13.png; back14.png; back15.png; back16.png; back17.png; back18.png; back19.png; back20.png; back21.png; back22.png; back23.png; back24.png; back25.png; back26.png; back27.png; back28.png; back29.png; back30.png

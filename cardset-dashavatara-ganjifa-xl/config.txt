@@ -1,0 +1,6 @@
+PySolFC solitaire cardset;5;.png;8;120;7,18,30,1018;2000
+12432-dashavatara-ganjifa-xl;Dashavatara Ganjifa XL
+180 180 8
+20 32 7 7
+back01.png
+back01.png; back02.png; back03.png

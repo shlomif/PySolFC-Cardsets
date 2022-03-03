@@ -1,0 +1,6 @@
+PySolFC solitaire cardset;6;.png;4;42;7,28;0
+044-uni-mahjongg;Uni Mahjongg
+204 254 8
+12 12 15 15
+back01.png
+back01.png; back02.png; back03.png

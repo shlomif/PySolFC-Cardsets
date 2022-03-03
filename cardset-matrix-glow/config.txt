@@ -1,0 +1,6 @@
+PySolFC solitaire cardset;5;.gif;9;100;31,1018;2000
+006-matrix-glow;Matrix Glow
+35 35 8
+20 20 2 2
+back01.gif
+back01.gif
