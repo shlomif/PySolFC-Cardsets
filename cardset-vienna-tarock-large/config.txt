@@ -1,0 +1,6 @@
+PySolFC solitaire cardset;5;.gif;3;78;7,27,1001;2000
+007-vienna-tarock;Vienna Tarock Large
+82 142 8
+20 20 7 7
+back01.gif
+back01.gif

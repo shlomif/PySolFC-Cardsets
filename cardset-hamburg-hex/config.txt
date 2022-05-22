@@ -1,0 +1,6 @@
+PySolFC solitaire cardset;5;.gif;5;68;8,19,20,29,1006;1864
+99991-hamburg-hex;City of Hamburg Hex
+82 122 8
+20 20 7 7
+back01.gif
+back01.gif

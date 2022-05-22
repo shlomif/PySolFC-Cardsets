@@ -1,0 +1,6 @@
+PySolFC solitaire cardset;5;.gif;1;52;8,19,20,1006;1864
+99990-hamburg-1864;City of Hamburg 1864
+82 122 8
+20 20 7 7
+back01.gif
+back01.gif
