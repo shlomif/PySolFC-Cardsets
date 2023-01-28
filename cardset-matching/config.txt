@@ -1,0 +1,6 @@
+PySol solitaire cardset;4;.gif;10;30;32
+123-matching;Matching
+80 80 8
+10 10 7 7
+back01.gif
+back01.gif; back02.gif; back03.gif; back04.gif

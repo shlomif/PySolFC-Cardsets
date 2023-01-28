@@ -1,0 +1,6 @@
+PySol solitaire cardset;4;.png;10;30;32
+123-matching-xl;Matching XL
+160 160 8
+20 20 7 7
+back01.png
+back01.png; back02.png; back03.png; back04.png
