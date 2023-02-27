@@ -1,4 +1,4 @@
-PySolFC solitaire cardset;5;.gif;5;68;8,1006;1770
+PySolFC solitaire cardset;5;.gif;5;68;8,29,1006;1770
 12467-hannover-hex;The Hannover Hex
 62 100 8
 18 20 7 7

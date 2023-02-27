@@ -1,0 +1,6 @@
+PySolFC solitaire cardset;5;.png;4;42;7,28;0
+123-zy-mahjongg;Zy Mahjongg
+32 46 8
+3 3 7 7
+back01.png
+back01.png

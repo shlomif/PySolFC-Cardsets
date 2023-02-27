@@ -1,0 +1,6 @@
+PySol solitaire cardset;4;.png;10;28;16,32
+123-missouri-leaves;Missouri Leaves
+150 150 8
+20 20 7 7
+back01.png
+back01.png
