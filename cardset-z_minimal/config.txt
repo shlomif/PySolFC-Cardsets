@@ -1,0 +1,6 @@
+PySol solitaire cardset;4;.png;1;52;7
+123-cardset-z_minimal;Z Minimal
+210 300 8
+42 60 7 7
+back01.png
+back01.png; back02.png; back03.png; back04.png
