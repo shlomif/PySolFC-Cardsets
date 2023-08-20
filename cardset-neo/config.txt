@@ -1,4 +1,4 @@
-PySol solitaire cardset;4;.png;1;52;7
+PySol solitaire cardset;7;.png;1;54;7;0;1;0
 123-neo;Neo
 250 363 8
 32 45 7 7
