@@ -1,0 +1,6 @@
+PySol solitaire cardset;7;.gif;11;81;8,33,1006;1450;9;0
+12463-hofamterspiel;Hofamterspiel (9x9)
+90 56 8
+20 20 2 2
+back01.gif
+back01.gif

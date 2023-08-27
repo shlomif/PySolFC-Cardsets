@@ -1,0 +1,6 @@
+PySol solitaire cardset;7;.gif;11;16;33,1018;0;4;0
+12452-knave-of-hearts;Knave of Hearts (4x4)
+77 97 8
+20 20 2 2
+back01.gif
+back01.gif

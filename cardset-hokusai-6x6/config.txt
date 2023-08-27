@@ -1,0 +1,6 @@
+PySol solitaire cardset;7;.gif;11;36;4,33,1016;0;6;0
+12453-hokusai;Hokusai Ukiyo E (6x6)
+114 74 8
+20 20 2 2
+back01.gif
+back01.gif

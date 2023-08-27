@@ -1,0 +1,6 @@
+PySol solitaire cardset;7;.gif;11;25;4,20,33,1003;1865;5;0
+12466-victoria-falls;Victoria Falls (5x5)
+118 80 8
+20 20 2 2
+back01.gif
+back01.gif

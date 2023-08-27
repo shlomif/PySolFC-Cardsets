@@ -1,0 +1,6 @@
+PySol solitaire cardset;7;.gif;11;100;4,33,1016;1850;10;0
+12450-eternal-dragon;Eternal Dragon (10x10)
+70 69 8
+20 20 2 2
+back01.gif
+back01.gif

@@ -1,0 +1,6 @@
+PySol solitaire cardset;7;.gif;11;49;8,33;0;7;0
+12462-blaren;Blaren (7x7)
+45 68 8
+20 20 2 2
+back01.gif
+back01.gif

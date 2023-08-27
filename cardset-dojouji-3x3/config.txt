@@ -1,0 +1,6 @@
+PySol solitaire cardset;7;.gif;11;9;4,33,1016;0;3;0
+12457-dojouji;Dojouji Ukiyo E (3x3)
+138 188 8
+20 20 2 2
+back01.gif
+back01.gif

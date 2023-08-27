@@ -1,0 +1,6 @@
+PySol solitaire cardset;7;.gif;11;100;33,1018;0;10;0
+12425-playerstrumps;Players Trumps (10x10)
+50 35 8
+20 20 7 7
+back01.gif
+back01.gif

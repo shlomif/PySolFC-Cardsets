@@ -1,0 +1,6 @@
+PySol solitaire cardset;7;.gif;11;49;8,33,1004;0;7;0
+12461-harlequin;Harlequin (7x7)
+45 71 8
+20 20 2 2
+back01.gif
+back01.gif
