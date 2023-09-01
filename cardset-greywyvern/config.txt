@@ -1,4 +1,4 @@
-PySolFC solitaire cardset;4;.png;1;52;2,16,1018
+PySolFC solitaire cardset;7;.png;1;54;2,16,1018;2008;1;0
 123-cardset-greywyvern;GreyWyvern
 90 135 8
 16 20 7 7

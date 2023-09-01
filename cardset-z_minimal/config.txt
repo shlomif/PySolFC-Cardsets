@@ -1,4 +1,4 @@
-PySol solitaire cardset;4;.png;1;52;7
+PySol solitaire cardset;7;.png;1;54;7;2023;1;0
 123-cardset-z_minimal;Z Minimal
 210 300 8
 42 60 7 7

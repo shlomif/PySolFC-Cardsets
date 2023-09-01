@@ -1,4 +1,4 @@
-PySol solitaire cardset;4;.png;1;52;7
+PySol solitaire cardset;7;.png;1;54;7;2020;1;0
 123-kenney;Kenney
 42 60 8
 14 15 7 7

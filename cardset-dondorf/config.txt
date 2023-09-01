@@ -1,4 +1,4 @@
-PySolFC solitaire cardset;4;.gif;1;52;7
+PySolFC solitaire cardset;7;.gif;1;54;7;2005;1;0
 123-dondorf;Dondorf
 79 123 8
 16 25 7 7

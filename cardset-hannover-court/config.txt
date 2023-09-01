@@ -1,4 +1,4 @@
-PySolFC solitaire cardset;5;.gif;1;52;8,1006;1770
+PySolFC solitaire cardset;7;.gif;1;54;8,1006;1770;1;0
 12466-hannover-court;The Hannover Court
 62 100 8
 18 20 7 7
