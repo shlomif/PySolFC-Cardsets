@@ -1,0 +1,6 @@
+PySolFC solitaire cardset;6;.png;4;42;28;0;2023
+123456-linux-mahjongg;Linux Mahjongg
+94 130 8
+11 11 12 12
+back01.png
+back01.png
