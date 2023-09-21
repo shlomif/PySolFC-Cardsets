@@ -1,0 +1,6 @@
+PySol solitaire cardset;7;.gif;11;81;4,33,1004;1892;9;0
+12463-the-card-players;The Card Players (9x9)
+90 66 8
+20 20 2 2
+back01.gif
+back01.gif

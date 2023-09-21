@@ -1,0 +1,6 @@
+PySolFC solitaire cardset;6;.gif;4;42;28;1988
+123321-mahjongg-dorwhite;DorWhite Mahjongg
+64 80 8
+10 10 10 10
+back01.gif
+back01.gif

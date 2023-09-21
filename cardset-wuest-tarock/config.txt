@@ -1,0 +1,6 @@
+PySolFC solitaire cardset;5;.gif;3;78;8,27,1006;1860
+12377-wuesttarok;Wuest Tarock
+89 161 8
+20 30 7 7
+back01.gif
+back01.gif
