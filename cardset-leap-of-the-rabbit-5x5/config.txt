@@ -1,0 +1,6 @@
+PySol solitaire cardset;7;.gif;11;25;4,33,1022;1911;5;0
+14466-leap-of-the-rabbit;Leap of the Rabbit (5x5)
+110 90 8
+20 20 2 2
+back01.gif
+back01.gif
