@@ -1,0 +1,6 @@
+PySol solitaire cardset;5;.gif;4;42;4,28,1016;0
+12469-ukiyo-e-mahjongg;Ukiyo E Mahjongg
+45 58 8
+20 20 7 7
+back01.gif
+back01.gif

@@ -1,4 +1,4 @@
-PySolFC solitaire cardset;5;.gif;4;42;7,28,11;0
+PySolFC solitaire cardset;5;.gif;4;42;7,28,1011;0
 003-crystal-mahjongg;Crystal Mahjongg
 45 58 8
 3 3 7 7

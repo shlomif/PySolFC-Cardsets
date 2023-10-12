@@ -1,4 +1,4 @@
-PySolFC solitaire cardset;5;.gif;1;52;4,27,1016;1794
+PySolFC solitaire cardset;5;.gif;1;52;4,1016;1794
 12421-ukiyoesharaku;Ukiyo E Sharaku
 81 130 8
 20 20 7 7
