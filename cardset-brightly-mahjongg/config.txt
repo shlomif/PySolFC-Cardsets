@@ -1,0 +1,6 @@
+PySol solitaire cardset;5;.gif;4;42;7,28,1011;0
+12505-brightly-mahjongg;Brightly Mahjongg
+41 51 8
+20 20 7 7
+back01.gif
+back01.gif
