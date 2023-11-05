@@ -1,0 +1,6 @@
+PySolFC solitaire cardset;4;.gif;12;36;21,34
+23344-alpha-ishido;Alpha Ishido
+64 64 8
+13 13 7 7
+back01.gif
+back01.gif

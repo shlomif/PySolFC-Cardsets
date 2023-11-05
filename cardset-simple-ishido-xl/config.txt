@@ -1,0 +1,6 @@
+PySol solitaire cardset;4;.png;12;36;34
+1243-simple-ishido-xl;Simple Ishido XL
+160 160 8
+10 10 7 7
+back01.png
+back01.png

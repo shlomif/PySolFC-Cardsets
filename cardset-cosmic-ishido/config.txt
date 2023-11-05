@@ -1,0 +1,6 @@
+PySolFC solitaire cardset;4;.png;12;36;23,34
+23344-cosmic-ishido;Cosmic Ishido
+120 120 8
+13 13 7 7
+back01.png
+back01.png

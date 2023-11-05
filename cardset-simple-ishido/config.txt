@@ -1,0 +1,6 @@
+PySol solitaire cardset;4;.gif;12;36;34
+1243-simple-ishido;Simple Ishido
+80 80 8
+10 10 7 7
+back01.gif
+back01.gif

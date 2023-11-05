@@ -1,0 +1,6 @@
+PySolFC solitaire cardset;4;.gif;12;36;34
+22133-mini-ishido;Mini Ishido
+40 40 8
+13 13 7 7
+back01.gif
+back01.gif
