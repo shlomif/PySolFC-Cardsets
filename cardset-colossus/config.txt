@@ -1,4 +1,4 @@
-PySolFC solitaire cardset;5;.gif;1;52;0;0
+PySolFC solitaire cardset;5;.gif;1;52;7;0
 12381-colossus;Colossus
 27 32 8
 8 10 5 5

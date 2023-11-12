@@ -1,4 +1,4 @@
-PySolFC solitaire cardset;4;.gif;1;52;0,1003
+PySolFC solitaire cardset;4;.gif;1;52;7,1003
 12360-rangoon-e;Rangoon English
 51 69 8
 12 14 6 6
