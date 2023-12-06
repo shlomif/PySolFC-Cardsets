@@ -1,4 +1,4 @@
-PySol solitaire cardset;4;.gif;10;30;32
+PySol solitaire cardset;4;.gif;10;30;32,35,38
 123-cross-lines;Cross Lines
 65 65 8
 10 10 7 7

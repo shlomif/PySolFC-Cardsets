@@ -1,4 +1,4 @@
-PySol solitaire cardset;7;.png;1;54;7;2017;1;0
+PySol solitaire cardset;7;.png;1;54;7,35,38;2017;1;0
 123-sylly;Sylly
 103 138 8
 30 35 7 7

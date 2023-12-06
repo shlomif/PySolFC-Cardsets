@@ -1,4 +1,4 @@
-PySolFC solitaire cardset;5;.gif;1;52;8,1003;1897
+PySolFC solitaire cardset;5;.gif;1;52;8,37,1003;1897
 12408-princecharles;Prince Charles
 81 124 8
 20 20 7 7

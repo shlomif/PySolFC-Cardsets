@@ -1,4 +1,4 @@
-PySol solitaire cardset;7;.png;1;52;7;2004;1;0
+PySol solitaire cardset;7;.png;1;52;7,36;2004;1;0
 123-cardmage;CardMage
 71 96 8
 16 20 7 7

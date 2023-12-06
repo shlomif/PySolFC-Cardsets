@@ -1,4 +1,4 @@
-PySol solitaire cardset;5;.gif;3;78;4,8,1003;1909
+PySol solitaire cardset;5;.gif;3;78;4,8,27,36,1003;1909
 12233-rider-waite-tarot;Rider-Waite Tarot
 85 150 8
 16 20 7 7

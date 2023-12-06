@@ -1,4 +1,4 @@
-PySolFC solitaire cardset;5;.gif;1;52;7;1998
+PySolFC solitaire cardset;5;.gif;1;52;7,38;1998
 1000_kabale_074114;Kabale
 74 114 8
 22 22 7 7

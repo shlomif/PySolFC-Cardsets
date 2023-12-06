@@ -1,4 +1,4 @@
-PySol solitaire cardset;5;.gif;4;42;28;0
+PySol solitaire cardset;5;.gif;4;42;28,35;0
 12495-kaleidoscope-mahjongg;Kaleidoscope Mahjongg
 38 54 8
 20 20 7 7
