@@ -1,0 +1,6 @@
+PySol solitaire cardset;5;.gif;4;42;5,28,1018;0
+12504-funny-papers-mahjongg;Funny Papers Mahjongg
+36 46 8
+20 20 7 7
+back01.gif
+back01.gif
