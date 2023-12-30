@@ -1,0 +1,6 @@
+PySol solitaire cardset;7;.png;1;54;35;2009;1;0
+123-momoko;Momoko
+267 400 8
+60 90 7 7
+back01.png
+back01.png
