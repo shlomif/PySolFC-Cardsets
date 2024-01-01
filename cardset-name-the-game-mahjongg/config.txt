@@ -1,0 +1,6 @@
+PySol solitaire cardset;5;.gif;4;42;28;0
+12496-name-the-game-mahjongg;Name the Game Mahjongg
+38 54 8
+20 20 7 7
+back01.gif
+back01.gif
