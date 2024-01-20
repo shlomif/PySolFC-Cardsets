@@ -1,4 +1,4 @@
-PySolFC solitaire cardset;4;.gif;2;48;12
+PySolFC solitaire cardset;4;.gif;2;48;12,1016
 12348-kintengu-small;Kintengu Small
 52 84 8
 20 20 7 7
