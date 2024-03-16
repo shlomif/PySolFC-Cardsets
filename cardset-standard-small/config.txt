@@ -1,4 +1,4 @@
-PySolFC solitaire cardset;4;.gif;1;52;7
+PySolFC solitaire cardset;7;.gif;1;54;7;0;1;0
 0020_057085;Standard Small
 57 85 8
 12 18 7 7
