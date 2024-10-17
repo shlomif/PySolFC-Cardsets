@@ -1,4 +1,4 @@
-PySolFC solitaire cardset;5;.gif;1;52;8,1004;0
+PySolFC solitaire cardset;5;.gif;1;52;8,36,1004;0
 12433-littlesorcerer;Little Sorcerer
 68 98 8
 18 20 7 7
