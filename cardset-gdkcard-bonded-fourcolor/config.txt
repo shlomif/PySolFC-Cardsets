@@ -1,0 +1,6 @@
+PySolFC solitaire cardset;7;.gif;1;54;7,37;1999;1;0
+1000_gnome_bonded_fourcolor_079123;Gnome Bonded Four Color
+79 123 8
+16 22 7 7
+back101.gif
+back041.gif;back042.gif;back043.gif;back101.gif;back102.gif;back111.gif;back191.gif;back192.gif

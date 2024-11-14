@@ -1,0 +1,6 @@
+PySolFC solitaire cardset;7;.gif;1;52;25;0;1;0
+14843-flyinghigh;Flying High
+125 171 8
+20 20 7 7
+back01.gif
+back01.gif

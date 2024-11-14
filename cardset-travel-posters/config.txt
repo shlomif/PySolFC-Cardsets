@@ -1,0 +1,6 @@
+PySol solitaire cardset;4;.gif;10;26;32,20
+123-travel-posters;Travel Posters
+132 180 8
+10 10 7 7
+back01.gif
+back01.gif
