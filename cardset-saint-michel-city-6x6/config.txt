@@ -1,4 +1,4 @@
-PySol solitaire cardset;7;.gif;11;36;4,20,33,1004;1830;6;0
+PySol solitaire cardset;7;.png;11;36;4,20,33,1004;1830;6;0
 124335-saintmichel;Saint-Michel City (6x6)
 103 86 8
 20 20 7 7
