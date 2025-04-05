@@ -1,5 +1,5 @@
 PySolFC solitaire cardset;5;.gif;1;52;8,1006;1860
-12522-emperial-dondorf;Emperial Donforf
+12522-emperial-dondorf;Emperial Dondorf
 81 122 8
 20 20 7 7
 back01.gif

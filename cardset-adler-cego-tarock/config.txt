@@ -1,5 +1,5 @@
 PySolFC solitaire cardset;5;.gif;3;78;8,2,27,1006;1820
-0237-adler-cego-tarock;Adler-Cego Tarock
+0237-adler-cego-tarock;Adler Cego Tarock
 80 140 8
 20 26 7 7
 back01.gif
